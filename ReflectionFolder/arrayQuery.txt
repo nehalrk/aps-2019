@@ -1,0 +1,20 @@
+
+
+look up table
+look up table:2d array
+1.	Time complexity :O(n^2)
+2.	Space complexity : O(n^2)
+3.	Searching/fetching time for an element : O(1)
+
+square root decomposition:
+look up table: 1D array.
+
+1. Time complexity : O(sqrt(n))
+2.Space complexity :O(sqrt(n)).
+3.	searching time for an element : O(sqrt(n))
+
+segment tree
+1.	 time complexity=:O(nlogn).
+2.	Space complexity :O(nlogn).
+3.	Searching/fetch time : O(logn).
+
