@@ -10,8 +10,8 @@ square root decomposition:
 look up table: 1D array.
 
 1. Time complexity : O(sqrt(n))
-2.Space complexity :O(sqrt(n))
-3.	searching time for an element : O(sqrt(n))
+2. Space complexity :O(sqrt(n))
+3. searching time for an element : O(sqrt(n))
 
 segment tree
 1.	 time complexity=:O(nlogn)
